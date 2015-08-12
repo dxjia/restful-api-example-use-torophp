@@ -1,5 +1,12 @@
 # Restful API Example use ToroPHP
-Material design 使用[ToroPHP](https://github.com/anandkunal/ToroPHP)创建Restful api示例，具体见blog：
+
+使用[ToroPHP](https://github.com/anandkunal/ToroPHP)创建Restful api的示例；
+具体见blog：<http://dxjia.cn/2015/08/restful-api-for-app/>
+
+http://api.dxjia.cn/v0
+http://api.dxjia.cn/v0/users
+http://api.dxjia.cn/v0/users/10001
+http://api.dxjia.cn/v0/users/10001/book/God
 
 # License
 ```
