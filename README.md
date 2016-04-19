@@ -1,7 +1,7 @@
 # Restful API Example use ToroPHP
 
 使用[ToroPHP](https://github.com/anandkunal/ToroPHP)创建Restful api的示例；
-具体见blog：<http://dxjia.cn/2015/08/restful-api-for-app/>
+具体见blog：<http://dxjia.cn/2016/04/14/write-restful-api-in-blog-space/>
 
 http://api.dxjia.cn/v0<br>
 http://api.dxjia.cn/v0/users<br>
